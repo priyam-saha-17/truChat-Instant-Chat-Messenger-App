@@ -1,0 +1,15 @@
+{
+  "name": "chatserver",
+  "version": "1.0.0",
+  "description": "Server for trueChat:Instant Chat Messenger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priyam Saha",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "socket.io": "^4.6.1"
+  }
+}
