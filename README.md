@@ -8,4 +8,4 @@
 3. Client code (implemented using javaScript) :- [Client.js](https://github.com/priyam-saha-17/truChat-Instant-Chat-Messenger-App/blob/master/js/Client.js)
 4. Server code (implemented using NodeJS and using Socket.io) :- [index.js](https://github.com/priyam-saha-17/truChat-Instant-Chat-Messenger-App/blob/master/ChatServer/index.js) 
 
-For documentation, refer to pdf file :- 
+For documentation, refer to pdf file :- [link](https://drive.google.com/file/d/1qa5R6sgPo_U_8oxVLhZ1tZmdVS9IS9zq/view?usp=sharing)
